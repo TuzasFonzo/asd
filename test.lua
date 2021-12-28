@@ -1,7 +1,7 @@
 local imgui = require 'imgui'
 local key = require 'vkeys'
 -- вот это надо
-script_version("1.0")
+script_version("1.2")
 local color = 0x348cb2
 -- это тоже
 local dlstatus = require('moonloader').download_status
